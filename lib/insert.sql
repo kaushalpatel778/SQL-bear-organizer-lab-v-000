@@ -5,4 +5,4 @@ INSERT INTO bears(name,age,gender,color,temperament,alive) values ("Sergent Brow
 INSERT INTO bears(name,age,gender,color,temperament,alive) values ("Melissa",29,"M","orange","low",1);
 INSERT INTO bears(name,age,gender,color,temperament,alive) values ("Grinch",31,"F","white","normal",0);
 INSERT INTO bears(name,age,gender,color,temperament,alive) values ("Wendy",9,"M","marron","high",1);
-INSERT INTO bears(name,age,gender,color,temperament,alive) values (" ",55,"F","purple","normal",1);
+INSERT INTO bears(name,age,gender,color,temperament,alive) values (NULL,55,"F","purple","normal",1);
