@@ -5,5 +5,5 @@ CREATE TABLE bears(
   color text,
   temperament text,
   alive boolean,
-  id integer primary key
+  id id INTEGER PRIMARY KEY
 );
